@@ -1,4 +1,4 @@
-![Header](assets/sova.png)
+![Header](https://github.com/Klaidonis/Autoposting-Telegram-Bot/blob/main/asstes/sova.png)
 
 <p style="font-size: 20px">An autoposting bot is a bot that collects a variety of content from telegram channels, a website, and Instagram and sends it to a closed telegram channel.
 In a closed telegram channel, there is an administrator who sees all the content and he puts reactions to the content that he liked, after which this bot sequentially sends photos / videos / text to the open channel.</p>
